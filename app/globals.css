@@ -4,7 +4,9 @@
 
 #contact {
     background-image:
-        linear-gradient( rgba(26, 26, 26, 1),rgba(26, 26, 26, 0.99)),
+        linear-gradient( rgba(26, 26, 26, 1),rgba(26, 26, 26, 0.97)),
         url('../public/bg-vector.svg');
+
+        overflow:hidden
 
 }
